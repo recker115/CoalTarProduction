@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/item_3"
+        android:title="Slideshow"
+        android:icon="@drawable/ic_video_library_black_24dp"
+        />
+    <item
+        android:id="@+id/item_4"
+        android:title="Tools"
+        android:icon="@drawable/ic_perm_data_setting_black_24dp"
+
+        />
+    <item
+    android:id="@+id/item_5"
+    android:title="Help"
+    />
+    <item
+        android:id="@+id/item_6"
+        android:icon="@drawable/ic_power_settings_new_black_24dp"
+        android:title="Logout"
+        />
+
+
+
+</menu>

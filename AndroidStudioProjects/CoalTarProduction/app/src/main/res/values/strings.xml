@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CoalTarProduction</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="facebook_app_id">273835076354102</string>
+    <string name="fb_login_protocol_scheme">fb273835076354102</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN">5358549062a18fe98151e9c46c4db9b9</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="hintSearchMess">Search Movies</string>
+</resources>

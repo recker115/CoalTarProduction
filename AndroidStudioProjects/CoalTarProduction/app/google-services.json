@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "808870282480",
+    "project_id": "coaltarproject"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808870282480:android:1c2784e9a62c005a",
+        "android_client_info": {
+          "package_name": "com.example.user.coaltarproduction"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "808870282480-0h6tq1dba50e54kcaq8uk9j37084tape.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.coaltarproduction",
+            "certificate_hash": "43e9e820081a3f3044e5b01c3bad22bd15f521f2"
+          }
+        },
+        {
+          "client_id": "808870282480-ri8iircjgqtjug48dc83p6o65j5nmoeg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5NLJrUkPK6PbUtPKz72eZFElv5_ERQoM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
